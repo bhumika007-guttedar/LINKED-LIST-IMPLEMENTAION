@@ -113,3 +113,5 @@ Linked List: 10 -> 30 -> 40 -> NULL
 
 OUTPUT
 ----------------------------------------------------------------------
+
+<img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/70e10556-d370-4a77-a20d-5610c1ff256e" />
